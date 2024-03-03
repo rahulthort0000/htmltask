@@ -1,0 +1,1150 @@
+.frame-child {
+  height: 116px;
+  width: 117px;
+  position: absolute;
+  margin: 0 !important;
+  top: -59px;
+  left: -19px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+}
+.orem-epsom {
+  font-weight: 600;
+}
+.ellipse-parent,
+.lorem-epsom {
+  display: flex;
+  position: relative;
+}
+.lorem-epsom {
+  height: 38px;
+  flex: 1;
+  align-items: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.ellipse-parent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-item {
+  width: 17.3px;
+  height: 14.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -0.5px;
+  left: 28.9px;
+  z-index: 1;
+}
+.frame-div,
+.guia-de-cirugia {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.frame-div {
+  height: 47px;
+  width: 104px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.guia-de-cirugia {
+  align-self: stretch;
+  flex: 1;
+  font-size: var(--font-size-5xl);
+}
+.frame-container {
+  align-self: stretch;
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.image-gallery,
+.si-ests-leyendo {
+  align-self: stretch;
+  position: relative;
+}
+.si-ests-leyendo {
+  flex: 1;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.image-gallery {
+  width: 145px;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.saber-mas {
+  width: 80%;
+  border: 0;
+  outline: 0;
+  font-weight: 200;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  height: 33px;
+  flex: 1;
+  position: relative;
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  min-width: 106px;
+  z-index: 1;
+  margin-left: -133px;
+}
+
+.image-gallery-parent,
+.text-subtitle {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+ 
+}
+.image-gallery-parent {
+  flex: 1;
+  align-items: start ;
+  margin-top: 30px;
+  margin-left: -20px;
+  width: 50%;
+}
+
+.image-gallery:hover{
+  background-image: linear-gradient(to right, rgb(238, 130, 130), rgb(240, 211, 157));
+}
+.text-subtitle {
+  height: 63px;
+  align-items: flex-start;
+  padding: 0 var(--padding-19xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+}
+.si-ests-leyendo-esto-es-porq-parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-4xl);
+}
+.frame-group,
+.frame-wrapper,
+.si-ests-leyendo-esto-es-porq-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xs) 0 var(--padding-5xs);
+  font-size: var(--font-size-xl);
+}
+.frame-group {
+  height: 800px;
+  width: 350px;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-93xl);
+  min-width: 380px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+  cursor: pointer;
+  margin-left: 120px;
+}
+.image-2-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  top: 80px;
+  left: 54px;
+  z-index: 1;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  top: 140px;
+  left: 108px;
+  z-index: 2;
+}
+.image-4-icon,
+.image-5-icon {
+  top: 203px;
+  left: 157px;
+  z-index: 3;
+}
+.image-5-icon {
+  top: 276px;
+  left: 206px;
+  z-index: 4;
+}
+.text-content-header {
+  position: absolute;
+  top: 143px;
+  left: 0;
+  width: 560px;
+  height: 492px;
+}
+.headphone-container-child {
+  height: 63px;
+  width: 249px;
+  position: relative;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.historia-sonora {
+  width: 177px;
+  height: 33px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.cardiaca-guide-title {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.headphones-icon {
+  height: 52px;
+  width: 41px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.headphone-container,
+.historia-sonora-name-child {
+  border-radius: var(--br-23xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.headphone-container {
+  cursor: pointer;
+  padding: var(--padding-8xs) var(--padding-lg) var(--padding-7xs)
+    var(--padding-4xl);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 0;
+  left: 115px;
+  width: 249px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.historia-sonora-name-child {
+  align-self: stretch;
+  width: 244px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.historia {
+  height: 33px;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  z-index: 3;
+}
+.search-box-child {
+  height: 63px;
+  width: 69px;
+  position: relative;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-gray);
+  display: none;
+}
+.search-icon {
+  height: 46px;
+  width: 35px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.search-box {
+  border-radius: var(--br-23xl);
+  background-color: var(--color-gray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg) var(--padding-6xs)
+    var(--padding-base);
+  z-index: 1;
+}
+.historia-sonora-name,
+.podcast-considerations {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-23xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.historia-sonora-name {
+  left: 408px;
+  background-color: var(--color-gainsboro);
+  width: 244px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-xs);
+}
+.podcast-considerations {
+  left: 0;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.complete-guide-child {
+  position: absolute;
+  top: 22.4px;
+  left: 34.6px;
+  width: 14.7px;
+  height: 17.3px;
+  object-fit: contain;
+  z-index: 1;
+}
+.complete-guide {
+  position: absolute;
+  top: 0;
+  left: 696px;
+  width: 69px;
+  height: 63px;
+}
+.text-content-header-parent {
+  height: 635px;
+  flex: 1;
+  position: relative;
+  min-width: 497px;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+}
+.dashboard-2-inner,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  flex: 1;
+  gap: var(--gap-109xl);
+}
+.dashboard-2-inner {
+  width: 1220px;
+  padding: 0 var(--padding-8xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.completo,
+.contendio {
+  margin: 0;
+}
+.contendio-completo {
+  align-self: stretch;
+  height: 61px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.content-frame {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+}
+.alimentacin-y-estilo,
+.cardiaca-posoperatoria5-ries,
+.complicaciones3-preocupacion,
+.enfermedades-cardiovasculares,
+.las-mujeresi,
+.pdcast15-consideraciones-en,
+.preguntas-frecuentes-soy {
+  margin: 0;
+}
+.pdcast15-consideraciones-en-container {
+  height: 330px;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  color: var(--color-dimgray-200);
+  display: flex;
+  align-items: center;
+  min-width: 586px;
+  max-width: 100%;
+}
+.line-frames,
+.welcome-to-cardiaca-guide {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.line-frames {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: var(--gap-28xl);
+}
+.welcome-to-cardiaca-guide {
+  width: 1244px;
+  padding: 0 36px var(--padding-lgi) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.historia1,
+.sonata {
+  margin: 0;
+}
+.historia-sonata {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.bienvenido-mensaje {
+  height: 76px;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+}
+.episode-1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+  z-index: 1;
+}
+.single-episode {
+  width: 149px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.bienvenido-a-la {
+  height: 55px;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  min-width: 413px;
+  max-width: 100%;
+}
+.bienvenido-a-la,
+.episode-title,
+.line-frames1 {
+  display: flex;
+  align-items: center;
+}
+.episode-title {
+  flex: 1;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.line-frames1 {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.episode-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+}
+.frame-inner {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.bienvenido-a-la1,
+.episode-2 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-2 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la1 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.episode-frame-set {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.separator-frame {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.episode-frame-set-parent {
+  width: 1024px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  flex-shrink: 0;
+}
+.line-div {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.bienvenido-a-la2,
+.episode-3 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-3 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la2 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.episode-3-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.div,
+.frame-parent1 {
+  display: flex;
+  flex-shrink: 0;
+}
+.div {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  align-items: center;
+  white-space: nowrap;
+}
+.frame-parent1 {
+  width: 1024px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+}
+.frame-child1 {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.bienvenido-a-la3,
+.episode-4 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-4 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la3 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.episode-4-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.div1,
+.frame-parent2 {
+  display: flex;
+  flex-shrink: 0;
+}
+.div1 {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  align-items: center;
+  white-space: nowrap;
+}
+.frame-parent2 {
+  width: 1024px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+}
+.frame-child2 {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.bienvenido-a-la4,
+.episode-5 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-5 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la4 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.episode-5-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.div2,
+.frame-parent3 {
+  display: flex;
+  flex-shrink: 0;
+}
+.div2 {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  align-items: center;
+  white-space: nowrap;
+}
+.frame-parent3 {
+  width: 1024px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+}
+.frame-child3 {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.line-parent {
+  width: 1026px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 31px 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.thanks-message-frame {
+  align-self: stretch;
+  width: 122px;
+  position: relative;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.more-button,
+.ver-mas {
+  display: flex;
+  align-items: center;
+}
+.ver-mas {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  height: 33px;
+  flex: 1;
+  position: relative;
+  color: var(--color-black);
+  text-align: left;
+  min-width: 106px;
+  z-index: 1;
+  margin-left: -98px;
+}
+.more-button {
+  width: 201px;
+  height: 63px;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.cardiac-guide-section,
+.historia-audio,
+.image-frames {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cardiac-guide-section {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xl);
+  min-width: 667px;
+  margin-left: -65px;
+  font-size: var(--font-size-13xl);
+}
+.historia-audio,
+.image-frames {
+  flex-direction: row;
+}
+.historia-audio {
+  flex: 1;
+  flex-wrap: wrap;
+  row-gap: 20px;
+}
+.image-frames {
+  width: 1253px;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.headphones-icon-child {
+  height: 364px;
+  width: 1280px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.gracias {
+  align-self: stretch;
+  height: 61px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.historia-text-frame {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+}
+.image-6-icon {
+  width: 407px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 2;
+}
+.media-player {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  min-width: 352px;
+  max-width: 100%;
+  margin-left: -31px;
+}
+.spotify-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.info-frame {
+  height: 110px;
+  width: 66px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.historia-sonata1 {
+  width: 240px;
+  height: 61px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.facebook-icon,
+.instagram-icon,
+.twitterx-icon {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 90px;
+  z-index: 1;
+}
+.instagram-icon-frame,
+.social-icons-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.instagram-icon-frame {
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.social-icons-frame {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.instagram {
+  height: 61px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.instagram-frame,
+.social-media-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instagram-frame {
+  width: 268px;
+  flex-direction: row;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+}
+.social-media-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xl);
+  min-width: 187px;
+}
+.headphones-icon1,
+.media-player-frame {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.media-player-frame {
+  width: 396px;
+  align-items: center;
+  gap: var(--gap-24xl);
+  margin-left: -31px;
+}
+.headphones-icon1 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: var(--padding-lg) var(--padding-81xl) var(--padding-34xl)
+    var(--padding-46xl);
+  box-sizing: border-box;
+  row-gap: 20px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.cirugia-cardiaca-guide,
+.dashboard-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cirugia-cardiaca-guide {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-16xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.dashboard-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-32xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-73xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent {
+    gap: var(--gap-109xl);
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-group {
+    flex: 1;
+  }
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+  .contendio-completo,
+  .pdcast15-consideraciones-en-container {
+    font-size: var(--font-size-13xl);
+  }
+  .bienvenido-a-la,
+  .episode-1,
+  .line-frames1 {
+    font-size: var(--font-size-7xl);
+  }
+  .episode-frame {
+    flex-wrap: wrap;
+  }
+  .bienvenido-a-la1,
+  .bienvenido-a-la2,
+  .bienvenido-a-la3,
+  .bienvenido-a-la4,
+  .div,
+  .div1,
+  .div2,
+  .episode-2,
+  .episode-3,
+  .episode-4,
+  .episode-5,
+  .separator-frame {
+    font-size: var(--font-size-7xl);
+  }
+  .cardiac-guide-section {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 750px) {
+  .text-content-header-parent {
+    min-width: 100%;
+  }
+  .frame-parent {
+    gap: var(--gap-109xl);
+  }
+  .pdcast15-consideraciones-en-container {
+    min-width: 100%;
+  }
+  .line-frames {
+    gap: var(--gap-28xl);
+  }
+  .bienvenido-a-la {
+    min-width: 100%;
+  }
+  .episode-title {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .episode-frame {
+    gap: var(--gap-34xl);
+  }
+  .cardiac-guide-section,
+  .media-player {
+    min-width: 100%;
+  }
+  .headphones-icon1 {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .cirugia-cardiaca-guide {
+    gap: var(--gap-16xl);
+  }
+  .dashboard-2 {
+    gap: var(--gap-73xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .guia-de-cirugia {
+    font-size: var(--font-size-lgi);
+  }
+  .saber-mas,
+  .si-ests-leyendo {
+    font-size: var(--font-size-base);
+  }
+  .frame-group {
+    gap: var(--gap-93xl);
+  }
+  .historia,
+  .historia-sonora {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent {
+    gap: var(--gap-109xl);
+  }
+  .contendio-completo,
+  .pdcast15-consideraciones-en-container {
+    font-size: var(--font-size-5xl);
+  }
+  .historia-sonata {
+    font-size: var(--font-size-3xl);
+  }
+  .bienvenido-a-la,
+  .episode-1 {
+    font-size: var(--font-size-lgi);
+  }
+  .episode-title {
+    gap: var(--gap-19xl);
+  }
+  .bienvenido-a-la1,
+  .bienvenido-a-la2,
+  .bienvenido-a-la3,
+  .bienvenido-a-la4,
+  .div,
+  .div1,
+  .div2,
+  .episode-2,
+  .episode-3,
+  .episode-4,
+  .episode-5,
+  .line-frames1,
+  .separator-frame {
+    font-size: var(--font-size-lgi);
+  }
+  .ver-mas {
+    font-size: var(--font-size-base);
+  }
+  .gracias,
+  .historia-sonata1,
+  .instagram {
+    font-size: var(--font-size-3xl);
+  }
+  .media-player-frame {
+    flex-wrap: wrap;
+    gap: var(--gap-24xl);
+  }
+  .headphones-icon1 {
+    padding-top: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .dashboard-2 {
+    gap: var(--gap-73xl);
+  }
+}

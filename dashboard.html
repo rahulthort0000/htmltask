@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./dashboard.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@300;400;700&display=swap"
+    />
+  </head>
+  <body>
+
+      <section class="dashboard-inner"></section>
+      <div class="nested-frames-container">
+        <div class="nested-frames-container-child"></div>
+        <div class="aid-and-support-frame">
+          <div class="text-input-field">
+            <b class="ayuda-y-matria-container">
+              <span class="ayuda-y-matria-container1">
+                <p class="ayuda-y">Mobiloitte</p>
+                <p class="matria">Technology</p>
+              </span>
+            </b>
+            <div class="aid-and-resources">
+              <div class="assistance-and-maternal-care">
+                <div class="x-mark" style="cursor:default;" ></div>
+                <div class="x" style="cursor: pointer;" id="xMark"><-</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="media-frame">
+          <div class="guide-frame1">
+            <img
+              class="image-7-icon"
+              loading="eager"
+              alt=""
+              src="./images/game.png"
+            />
+
+            <div class="framework-frame">
+              <div class="music-and-social-media-icons">
+                <div class="history-song">
+                  <div class="historia-sonata17">Connect To Mobiloitte</div>
+                </div>
+                <div class="cardiac-surgery-guide">
+                  <img
+                    class="spotify-icon8"
+                    loading="eager"
+                    alt=""
+                    src="./public/spotify@2x.png"
+                  />
+
+                  <img
+                    class="twitterx-icon8"
+                    loading="eager"
+                    alt=""
+                    src="./public/twitterx@2x.png"
+                  />
+
+                  <img
+                    class="instagram-icon9"
+                    loading="eager"
+                    alt=""
+                    src="./public/instagram@2x.png"
+                  />
+
+                  <img
+                    class="facebook-icon10"
+                    loading="eager"
+                    alt=""
+                    src="./public/facebook@2x.png"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var xMark = document.getElementById("xMark");
+      if (xMark) {
+        xMark.addEventListener("click", function (e) {
+          window.location.href = "./index.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,1345 @@
+.e-l-l-i-p-s-eicon {
+  height: 116px;
+  width: 117px;
+  position: absolute;
+  margin: 0 !important;
+  top: -59px;
+  left: -19px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.orem-epsom6 {
+  font-weight: 600;
+}
+.lorem-epsom6 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.e-l-l-i-p-s-eicon-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-child11 {
+  width: 17.3px;
+  height: 14.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -0.5px;
+  left: 28.9px;
+  z-index: 1;
+}
+.frame-parent32,
+.guia-de-cirugia6 {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.frame-parent32 {
+  height: 47px;
+  width: 104px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.guia-de-cirugia6 {
+  align-self: stretch;
+  flex: 1;
+  font-size: var(--font-size-5xl);
+}
+.frame-parent31 {
+  align-self: stretch;
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.si-ests-leyendo6,
+.story-text {
+  align-self: stretch;
+  position: relative;
+}
+.si-ests-leyendo6 {
+  flex: 1;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.story-text {
+  width: 157px;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.saber-mas6 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  height: 33px;
+  flex: 1;
+  position: relative;
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  min-width: 106px;
+  z-index: 1;
+  margin-left: -133px;
+}
+.headphones-icon9 {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+}
+.cardiac-surgery-title,
+.headphones-icon9,
+.more-info-text5,
+.subtitle-text {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.more-info-text5 {
+  height: 63px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-19xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+}
+.cardiac-surgery-title,
+.subtitle-text {
+  flex: 1;
+}
+.subtitle-text {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-4xl);
+}
+.cardiac-surgery-title {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xs) 0 var(--padding-5xs);
+  font-size: var(--font-size-xl);
+}
+.frame-parent30 {
+  height: 588px;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-93xl);
+  min-width: 280px;
+}
+.cardiac-guide-info-child {
+  height: 63px;
+  width: 249px;
+  position: relative;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.historia-sonora6 {
+  width: 177px;
+  height: 33px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.si-you-are-reading {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.headphones-icon10 {
+  height: 52px;
+  width: 41px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.cardiac-guide-info,
+.history-frame-child {
+  border-radius: var(--br-23xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.cardiac-guide-info {
+  cursor: pointer;
+  padding: var(--padding-8xs) var(--padding-lg) var(--padding-7xs)
+    var(--padding-4xl);
+  background-color: var(--color-white);
+  flex: 0.8841;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 162px;
+}
+.history-frame-child {
+  align-self: stretch;
+  width: 244px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.historia12 {
+  height: 33px;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  z-index: 3;
+}
+.search-box-inner {
+  height: 63px;
+  width: 69px;
+  position: relative;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-gray);
+  display: none;
+}
+.search-icon6 {
+  height: 46px;
+  width: 35px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.search-box3 {
+  border-radius: var(--br-23xl);
+  background-color: var(--color-gray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg) var(--padding-6xs)
+    var(--padding-base);
+  z-index: 1;
+}
+.frame-child12,
+.history-frame1 {
+  border-radius: var(--br-23xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.history-frame1 {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-xs);
+  min-width: 159px;
+}
+.frame-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.frame-child13 {
+  position: absolute;
+  top: 22.4px;
+  left: 34.6px;
+  width: 14.7px;
+  height: 17.3px;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangle-parent2 {
+  height: 63px;
+  width: 69px;
+  position: relative;
+}
+.cardiac-guide-info-parent,
+.image-container-child {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cardiac-guide-info-parent {
+  flex: 1;
+  gap: var(--gap-25xl);
+}
+.image-container-child {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-15xl);
+  box-sizing: border-box;
+}
+.image-15-icon5 {
+  width: 553px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.image-container4 {
+  width: 684px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+  min-width: 684px;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+}
+.dashboard-8-inner,
+.frame-parent29 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent29 {
+  width: 1193px;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+}
+.dashboard-8-inner {
+  width: 1243px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl) var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.image-10-icon5,
+.image-9-icon5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 142px;
+  min-height: 297px;
+}
+.image-10-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.image-11-icon5,
+.image-12-icon5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 142px;
+  min-height: 297px;
+}
+.image-11-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.image-13-icon5,
+.image-14-icon5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 142px;
+  min-height: 297px;
+}
+.frames-stack,
+.frames-stack-wrapper,
+.image-13-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-13-group {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-21xl);
+}
+.frames-stack,
+.frames-stack-wrapper {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frames-stack {
+  width: 498px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-14xl);
+}
+.frames-stack-wrapper {
+  width: 679px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-62xl) var(--padding-xl);
+}
+.completo6,
+.contendio6 {
+  margin: 0;
+}
+.contendio-completo6 {
+  align-self: stretch;
+  height: 61px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.considerations-podcast2 {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+}
+.alimentacin-y-estilo6,
+.cardiaca-posoperatoria5-ries6,
+.complicaciones3-preocupacion6,
+.enfermedades-cardiovasculares6,
+.las-mujeresi6,
+.pdcast15-consideraciones-en6,
+.preguntas-frecuentes-soy6 {
+  margin: 0;
+}
+.pdcast15-consideraciones-en-container6 {
+  height: 330px;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  color: var(--color-dimgray-200);
+  display: flex;
+  align-items: center;
+  min-width: 586px;
+  max-width: 100%;
+}
+.content-complete-frame,
+.content-complete-frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.content-complete-frame {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: var(--gap-28xl);
+}
+.content-complete-frame-wrapper {
+  width: 1246px;
+  padding: 0 var(--padding-19xl) var(--padding-39xl) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.historia13,
+.sonata6 {
+  margin: 0;
+}
+.historia-sonata13 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.cardiaca-story {
+  height: 76px;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+}
+.episode-16 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+  z-index: 1;
+}
+.welcome-message1 {
+  width: 149px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.bienvenido-a-la30,
+.episode-title2 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.bienvenido-a-la30 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  min-width: 413px;
+}
+.episode-title2 {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+}
+.frame-line-sep {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.frame-line {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.line-separator-child {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.line-separator {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.bienvenido-a-la31,
+.episode-26 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-26 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la31 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.episode-2-parent2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.div20,
+.frame-parent33 {
+  display: flex;
+  flex-shrink: 0;
+}
+.div20 {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  align-items: center;
+  white-space: nowrap;
+}
+.frame-parent33 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+}
+.line-separator-item {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.line-separator1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.bienvenido-a-la32,
+.episode-36 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-36 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la32 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.frame-title-text {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.footer-content {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.frame-text1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-text2 {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bienvenido-a-la33,
+.episode-46 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-46 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la33 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.episode-4-parent4 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.div21,
+.frame-text3 {
+  display: flex;
+  flex-shrink: 0;
+}
+.div21 {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  align-items: center;
+  white-space: nowrap;
+}
+.frame-text3 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+}
+.frame-text-parent,
+.frame-text4 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-text4 {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+}
+.frame-text-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-xl);
+}
+.bienvenido-a-la34,
+.episode-56 {
+  height: 55px;
+  position: relative;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.episode-56 {
+  width: 149px;
+  flex-shrink: 0;
+}
+.bienvenido-a-la34 {
+  flex: 1;
+  min-width: 413px;
+  max-width: 100%;
+}
+.episode-5-parent4 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.div22,
+.frame-parent34 {
+  display: flex;
+  flex-shrink: 0;
+}
+.div22 {
+  height: 55px;
+  width: 149px;
+  position: relative;
+  font-weight: 300;
+  align-items: center;
+  white-space: nowrap;
+}
+.frame-parent34 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+}
+.line-separator-inner {
+  width: 963px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.line-separator2,
+.thanksframe-item {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.line-separator2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-smi) 0;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.thanksframe-item {
+  width: 122px;
+  position: relative;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+}
+.ver-mas6 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  height: 33px;
+  flex: 1;
+  position: relative;
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  min-width: 106px;
+  z-index: 1;
+  margin-left: -98px;
+}
+.thanks-screen,
+.thanksframe1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.thanksframe1 {
+  width: 201px;
+  align-items: center;
+}
+.thanks-screen {
+  height: 63px;
+  align-items: flex-start;
+}
+.cardiaca-guide,
+.episode-container,
+.historia-info {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cardiaca-guide {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-xl);
+  min-width: 675px;
+  margin-left: -77px;
+  font-size: var(--font-size-13xl);
+}
+.episode-container,
+.historia-info {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.episode-container {
+  flex: 1;
+  flex-wrap: wrap;
+  row-gap: 20px;
+}
+.historia-info {
+  width: 1253px;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.frame-child14,
+.gracias6 {
+  position: relative;
+  z-index: 1;
+}
+.frame-child14 {
+  height: 364px;
+  width: 1280px;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.gracias6 {
+  align-self: stretch;
+  height: 61px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.socialmediaframe {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+}
+.image-6-icon6 {
+  width: 407px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 2;
+}
+.image-6-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  min-width: 352px;
+  max-width: 100%;
+  margin-left: -31px;
+}
+.spotify-icon6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.spotify-container {
+  height: 110px;
+  width: 66px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.historia-sonata14 {
+  width: 240px;
+  height: 61px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.facebook-icon8,
+.instagram-icon7,
+.twitterx-icon6 {
+  align-self: stretch;
+  width: 66px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 90px;
+  z-index: 1;
+}
+.socialmedialinks,
+.twitterx-group {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.twitterx-group {
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.socialmedialinks {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.instagram7 {
+  height: 61px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.followusframe {
+  width: 268px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+}
+.followusframe,
+.frame-parent35,
+.listenmorebutton {
+  display: flex;
+  justify-content: flex-start;
+}
+.listenmorebutton {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  min-width: 187px;
+}
+.frame-parent35 {
+  width: 396px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-24xl);
+  max-width: 100%;
+  margin-left: -31px;
+}
+.dashboard-8,
+.rectangle-parent3 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rectangle-parent3 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: var(--padding-lg) var(--padding-81xl) var(--padding-34xl)
+    var(--padding-46xl);
+  row-gap: 20px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.dashboard-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-32xl) 0 0;
+  gap: var(--gap-34xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .cardiac-guide-info-parent,
+  .frame-parent30,
+  .image-container4 {
+    flex: 1;
+  }
+  .frame-parent29 {
+    flex-wrap: wrap;
+  }
+  .frames-stack-wrapper {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 975px) {
+  .image-container4 {
+    min-width: 100%;
+  }
+  .contendio-completo6,
+  .pdcast15-consideraciones-en-container6 {
+    font-size: var(--font-size-13xl);
+  }
+  .bienvenido-a-la30,
+  .episode-16,
+  .frame-line-sep {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-line {
+    flex-wrap: wrap;
+  }
+  .bienvenido-a-la31,
+  .div20,
+  .episode-26 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent33 {
+    flex-wrap: wrap;
+  }
+  .bienvenido-a-la32,
+  .episode-36,
+  .footer-content {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-text1 {
+    flex-wrap: wrap;
+  }
+  .bienvenido-a-la33,
+  .div21,
+  .episode-46 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-text3 {
+    flex-wrap: wrap;
+  }
+  .bienvenido-a-la34,
+  .div22,
+  .episode-56 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-parent34 {
+    flex-wrap: wrap;
+  }
+  .cardiaca-guide {
+    min-width: 100%;
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 725px) {
+  .cardiac-guide-info-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-25xl);
+  }
+  .image-container4 {
+    gap: var(--gap-80xl);
+  }
+  .image-10-group,
+  .image-11-group,
+  .image-13-group {
+    gap: var(--gap-21xl);
+  }
+  .frames-stack {
+    gap: var(--gap-14xl);
+  }
+  .frames-stack-wrapper {
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .pdcast15-consideraciones-en-container6 {
+    min-width: 100%;
+  }
+  .content-complete-frame {
+    gap: var(--gap-28xl);
+  }
+  .bienvenido-a-la30 {
+    min-width: 100%;
+  }
+  .episode-title2 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .frame-line {
+    gap: var(--gap-34xl);
+  }
+  .bienvenido-a-la31 {
+    min-width: 100%;
+  }
+  .episode-2-parent2 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .frame-parent33 {
+    gap: var(--gap-34xl);
+  }
+  .bienvenido-a-la32 {
+    min-width: 100%;
+  }
+  .frame-title-text {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .frame-text1 {
+    gap: var(--gap-34xl);
+  }
+  .bienvenido-a-la33 {
+    min-width: 100%;
+  }
+  .episode-4-parent4 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .frame-text3 {
+    gap: var(--gap-34xl);
+  }
+  .bienvenido-a-la34 {
+    min-width: 100%;
+  }
+  .episode-5-parent4 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .frame-parent34 {
+    gap: var(--gap-34xl);
+  }
+  .image-6-wrapper {
+    min-width: 100%;
+  }
+  .rectangle-parent3 {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .dashboard-8 {
+    gap: var(--gap-34xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .guia-de-cirugia6 {
+    font-size: var(--font-size-lgi);
+  }
+  .saber-mas6,
+  .si-ests-leyendo6 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent30 {
+    gap: var(--gap-93xl);
+  }
+  .historia-sonora6 {
+    font-size: var(--font-size-base);
+  }
+  .cardiac-guide-info {
+    flex: 1;
+  }
+  .historia12 {
+    font-size: var(--font-size-base);
+  }
+  .image-container4 {
+    gap: var(--gap-80xl);
+  }
+  .contendio-completo6,
+  .pdcast15-consideraciones-en-container6 {
+    font-size: var(--font-size-5xl);
+  }
+  .content-complete-frame-wrapper {
+    padding-bottom: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .historia-sonata13 {
+    font-size: var(--font-size-3xl);
+  }
+  .bienvenido-a-la30,
+  .episode-16 {
+    font-size: var(--font-size-lgi);
+  }
+  .episode-title2 {
+    gap: var(--gap-19xl);
+  }
+  .bienvenido-a-la31,
+  .episode-26,
+  .frame-line-sep {
+    font-size: var(--font-size-lgi);
+  }
+  .episode-2-parent2 {
+    gap: var(--gap-19xl);
+  }
+  .bienvenido-a-la32,
+  .div20,
+  .episode-36 {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-title-text {
+    gap: var(--gap-19xl);
+  }
+  .bienvenido-a-la33,
+  .episode-46,
+  .footer-content {
+    font-size: var(--font-size-lgi);
+  }
+  .episode-4-parent4 {
+    gap: var(--gap-19xl);
+  }
+  .bienvenido-a-la34,
+  .div21,
+  .episode-56 {
+    font-size: var(--font-size-lgi);
+  }
+  .episode-5-parent4 {
+    gap: var(--gap-19xl);
+  }
+  .div22 {
+    font-size: var(--font-size-lgi);
+  }
+  .ver-mas6 {
+    font-size: var(--font-size-base);
+  }
+  .gracias6,
+  .historia-sonata14,
+  .instagram7 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent35 {
+    flex-wrap: wrap;
+    gap: var(--gap-24xl);
+  }
+  .rectangle-parent3 {
+    padding-top: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+}
